@@ -1,0 +1,43 @@
+TOKEN
+deploy: 1,381,208
+transfer to new owner: 52,177 
+transfer to vesting: 52,177
+
+VESTING
+deploy: 1,818,216 
+fill schedules: 286,542
+    Vesting Phase (Long-term reserve)  Gas: 95518
+    Vesting Phase (Private Sale (Seed))  Gas: 95494
+    Vesting Phase (New Clients Incentive)  Gas: 95506
+    Vesting Phase (Trade-to-Earn Airdrop) Gas: 95506
+    Vesting Phase (Marketing & Liquidity) Gas: 95506
+    Vesting Phase (Team incentives) Gas: 95518
+    Vesting Phase (Ecosystem Growth) Gas: 95518
+
+TOTAL GAS: 1,381,208 + 52,177 * 2 + 1,818,216 + 286,542 = 3.590.320
+
+AVERAGE GAS PRICE: 
+https://www.cryptoneur.xyz/en/gas-fees-calculator
+39 gwei = 260 USD ~ 0.15 ETH
+
+
+
+
+AFTER AUDIT
+
+TOKEN
+deploy: 1,381,208
+approve for vesting: 46,864
+
+VESTING
+deploy: 1,680,684
+fill schedules: 807,599
+    Vesting Phase (Long-term reserve)  Gas: 115373
+    Vesting Phase (Private Sale (Seed))  Gas: 115361
+    Vesting Phase (New Clients Incentive)  Gas: 115373
+    Vesting Phase (Trade-to-Earn Airdrop) Gas: 115373
+    Vesting Phase (Marketing & Liquidity) Gas: 115373
+    Vesting Phase (Team incentives) Gas: 115373
+    Vesting Phase (Ecosystem Growth) Gas: 115373
+
+TOTAL GAS: 1,381,208 + 46,864 + 1,680,684 + 807,599 = 3.916.355
