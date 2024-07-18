@@ -1,6 +1,6 @@
 # Digitra Vesting
 
-[What is Digitra.com’s DGTA token?](https://www.digitra.com/en/what-is-digitra-coms-dgta-token/)
+[What is Digitra.com’s DGTA token?](https://www.digitra.com/en/article/what-is-digitra-coms-dgta-token/)
 
 ![Tokenomics](img/chart1.jpg)  
 ![Tokenomics](img/chart2.jpg)  
@@ -8,7 +8,7 @@
 Install project
 
 ```shell
-git clone https://github.com/ZmicerVilenski/Degitra.git
+git clone https://github.com/DigitraCom/DGTA.git
 npm i
 ```
 
